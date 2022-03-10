@@ -1,7 +1,7 @@
 ---
 title: "SMAP Detects Soil Moisture under Temperate Forest Canopies"
 collection: publications
-permalink: /publication/paper_2
+permalink: /publication/paper_2020b
 #excerpt: 'This paper '
 date: 2020-09-12
 venue: 'Geophysical Research Letters'
