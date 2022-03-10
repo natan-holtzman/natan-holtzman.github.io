@@ -1,7 +1,7 @@
 ---
 title: "Global ecosystem-scale plant hydraulic traits retrieved using model-data fusion"
 collection: publications
-permalink: /publication/paper_4
+permalink: /publication/paper_2021b
 #excerpt: 'This paper '
 date: 2021-05-10
 venue: 'Hydrology and Earth System Science'
