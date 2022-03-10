@@ -1,7 +1,7 @@
 ---
 title: "L-band vegetation optical depth as an indicator of plant water potential in a temperate deciduous forest stand"
 collection: publications
-permalink: /publication/paper_3
+permalink: /publication/paper_2021a
 #excerpt: 'This paper '
 date: 2021-02-01
 venue: 'Biogeosciences'
