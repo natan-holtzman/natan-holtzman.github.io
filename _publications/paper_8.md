@@ -1,7 +1,7 @@
 ---
 title: "Detecting forest response to droughts with global observations of vegetation water content."
 collection: publications
-permalink: /publication/paper_9
+permalink: /publication/paper_8
 #excerpt: 'This paper '
 date: 2021-09-03
 venue: 'Global Change Biology'
