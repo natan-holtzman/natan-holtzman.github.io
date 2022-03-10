@@ -1,7 +1,7 @@
 ---
 title: "Tailoring WRF and Noah‐MP to Improve Process Representation of Sierra Nevada Runoff: Diagnostic Evaluation and Applications"
 collection: publications
-permalink: /publication/paper_1
+permalink: /publication/paper_2021a
 #excerpt: 'This paper '
 date: 2020-03-01
 venue: 'Journal of Advances in Modeling Earth Systems'
