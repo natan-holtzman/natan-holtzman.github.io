@@ -1,7 +1,7 @@
 ---
 title: "Bias correction of hydrologic projections strongly impacts inferred climate vulnerabilities in institutionally complex water systems"
 collection: publications
-permalink: /publication/paper_6
+permalink: /publication/paper_7
 #excerpt: 'This paper '
 date: 2022-01-01
 venue: 'Journal of Water Resources Planning and Management'
