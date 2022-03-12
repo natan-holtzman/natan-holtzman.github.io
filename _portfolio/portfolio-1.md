@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Field demonstration of remote sensing of plant hydraulics"
+excerpt: "We measured microwave vegetation optical depth with a tower-mounted radiometer at Harvard Forest, while also measuring plant water potential within the radiometer field of view. The VOD and water potential displayed similar diurnal cycles. <br/><img src='/images/hf_diurnal.png'>"
+collection: research
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
