@@ -37,7 +37,7 @@
     -->
     
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'research' % || post.collection == 'teaching'}
+      {% if post.collection == 'research' || post.collection == 'teaching' %}
         title
       {% else %}
         {% if post.link %}
