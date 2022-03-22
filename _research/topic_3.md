@@ -1,6 +1,7 @@
 ---
 title: "Model-data fusion to map plant hydraulic traits"
-excerpt: "It's difficult to compare satellite observations of vegetation optical depth (VOD) with ground truth data because of the large pixel size of microwave satellite data. We circumvented this scaling issue by using a microwave radiometer on top of a 90-foot tower looking down directly at a patch of forest, so its field of view was small enough to be homogeneous.  This work was conducted at Harvard Forest with many collaborators including Alex Roy (U. Quebec Trois Rivieres) and Andreas Colliander (JPL). VOD and feaf water potential displayed similarly shaped diurnal and seasonal patterns.
+excerpt: "Plant hydraulic traits are being included in current land surface models, but the values of those traits at different places are largely unknown. 
+With Alex Konings (Stanford) and Yanlan Liu (Ohio State), I combined a simple plant hydraulic model with observations from the AMSR series of satellites to estimate values of several plant traits around the world. We found that the spatial distribution of trait values does not correspond well to commonly used classifications of plant functional types.
 
 ![Diurnal cycles of leaf water potential and VOD](/images/hf_diurnal.png)"
 collection: research
