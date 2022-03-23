@@ -18,7 +18,7 @@ Work experience
 ======
 * 2016-2018: Research Associate at UNC Institute for the Environment
   * Improved the representation of mountain snowmelt-driven runoff in the Noah-MP land surface model
-  * Worked with civil engineering researchers to explore effects of climate model uncertainty on reservoir operations modeling
+  * Worked with civil engineering researchers to study effects of climate model uncertainty on reservoir operations modeling
   * Supervisor: Prof. Tamlin Pavelsky
   
 Skills
