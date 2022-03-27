@@ -8,4 +8,4 @@ date: 2020-04-01
 #location: "Stanford, CA"
 ---
 
-I was the Teaching Assistant for "Remote Sensing of Hydrology" in Spring 2020, with Prof. Alex Konings as the instructor.
+I was the Teaching Assistant for "Remote Sensing of Hydrology" in Spring 2020, with Prof. Alexandra Konings as the instructor.
