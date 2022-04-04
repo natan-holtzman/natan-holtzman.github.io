@@ -13,4 +13,4 @@ Hi! I'm a fourth-year PhD candidate in Earth System Science at Stanford Universi
 I work in the Remote Sensing Ecohydrology Lab advised by Prof. Alexandra Konings. My research combines satellite remote sensing, computer modeling, and field measurements to characterize how plants interact with the water cycle.
 
 
-In my spare time, I enjoy music (playing the cello) and participate in Quiz Bowl, an academic knowledge competition.
+Outside of science, I play the cello in various music groups, and I participate in Quiz Bowl, an intercollegiate academic knowledge competition.
