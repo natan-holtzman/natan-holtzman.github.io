@@ -12,13 +12,22 @@ redirect_from:
 Education
 ======
 * B.S. with Honors in Geological Sciences, University of North Carolina at Chapel Hill, 2016
-* PhD in Earth System Science, Stanford University, expected 2023
+* PhD in Earth System Science, Stanford University, expected in December 2023
 
-Work experience
+Experience
 ======
-* 2016-2018: Research Associate at UNC Institute for the Environment
-  * Improved the representation of mountain snowmelt-driven runoff in the Noah-MP land surface model
-  * Worked with civil engineering researchers to study effects of climate model uncertainty on reservoir operations modeling
+* Summer 2023: Data Science Intern at The Aerospace Corporation (El Segundo, CA)
+  * Applying statistics, machine learning, and image processing to improve the reliability of electronics that are used in satellites
+* 2018-present: Graduate Researcher at Stanford Remote Sensing Ecohydrology Lab (Stanford, CA)
+  * Developed spatiotemporal statistical methods to interpret global microwave remote sensing data
+  * Built a Bayesian model-data fusion algorithm to combine satellite observations with computational models of water flow in plants and soil
+  * Developed a novel model of plant water use based on classical reinforcement learning
+  * Coordinated and carried out a week-long field campaign to measure plant water stress in a forest
+  * Supervisor: Prof. Alexandra Konings
+* 2016-2018: Research Associate at UNC Institute for the Environment (Chapel Hill, NC)
+  * Modified the precipitation and soil modules within a climate model to simulate snowmelt-driven runoff more accurately
+  * Developed interactive web app to visualize climate model output
+  * Worked with civil engineering researchers to study effects of climate model uncertainty on future hydropower scenarios
   * Supervisor: Prof. Tamlin Pavelsky
   
 Skills
