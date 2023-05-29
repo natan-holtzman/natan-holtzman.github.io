@@ -4,6 +4,7 @@ excerpt: "Stomatal optimality models are popular tools for predicting how plants
 
 ![](/images/timescale_example.png)
 
+
 *Examples of stomatal optimality model predictions at two FLUXNET sites, with different values of the water saving time scale parameter (tau)*
 "
 collection: research
