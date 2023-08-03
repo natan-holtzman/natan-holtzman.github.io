@@ -17,7 +17,7 @@ Education
 Experience
 ======
 * Summer 2023: Data Science Intern at The Aerospace Corporation (El Segundo, CA)
-  * Applying statistics, machine learning, and image processing to improve the reliability of electronics that are used in satellites
+  * Developed algorithms for state estimation and uncertainty quantification in satellite position/navigation/timing
 * 2018-present: Graduate Researcher at Stanford Remote Sensing Ecohydrology Lab (Stanford, CA)
   * Developed spatiotemporal statistical methods to interpret global microwave remote sensing data
   * Built a Bayesian model-data fusion algorithm to combine satellite observations with computational models of water flow in plants and soil
