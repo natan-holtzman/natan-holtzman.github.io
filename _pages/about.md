@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a fifth-year PhD candidate in Earth System Science at Stanford University. 
+Hi! I'm a sixth-year PhD candidate in Earth System Science at Stanford University. I plan to graduate soon and am seeking a full-time data science job starting Spring 2024.
 
-I work in the Remote Sensing Ecohydrology Lab advised by Prof. Alexandra Konings. My research combines satellite remote sensing, computer modeling, and field measurements to characterize how plants interact with the water cycle.
+At Stanford, I work in the Remote Sensing Ecohydrology Lab advised by Prof. Alexandra Konings. My research combines satellite remote sensing, computer modeling, and field measurements to characterize how plants interact with the water cycle.
 
 
 Outside of science, I play the cello in various music groups, and I participate in Quiz Bowl, an intercollegiate academic knowledge competition.
