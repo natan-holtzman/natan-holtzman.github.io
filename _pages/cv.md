@@ -12,13 +12,15 @@ redirect_from:
 Education
 ======
 * B.S. with Honors in Geological Sciences, University of North Carolina at Chapel Hill, 2016
-* PhD in Earth System Science, Stanford University, expected in January 2024
+* PhD in Earth System Science, Stanford University, 2024
 
 Experience
 ======
+* 2024-present: Senior Member of Technical Staff at The Aerospace Corporation (El Segundo, CA)
+  * Physical Sciences Laboratories - Microelectronics Technology Department
 * Summer 2023: Data Science Intern at The Aerospace Corporation (El Segundo, CA)
   * Developed algorithms for state estimation and uncertainty quantification in satellite position/navigation/timing
-* 2018-present: Graduate Researcher at Stanford Remote Sensing Ecohydrology Lab (Stanford, CA)
+* 2018-2024: Graduate Researcher at Stanford Remote Sensing Ecohydrology Lab (Stanford, CA)
   * Developed spatiotemporal statistical methods to interpret global microwave remote sensing data
   * Built a Bayesian model-data fusion algorithm to combine satellite observations with computational models of water flow in plants and soil
   * Developed a novel model of plant water use based on classical reinforcement learning
