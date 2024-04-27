@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. with Honors in Geological Sciences, University of North Carolina at Chapel Hill, 2016
 * PhD in Earth System Science, Stanford University, 2024
+* B.S. with Honors in Geological Sciences, University of North Carolina at Chapel Hill, 2016
 
 Experience
 ======
