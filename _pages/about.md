@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am currently an Engineering Specialist at The Aerospace Corporation in El Segundo, CA. Before that, in April 2024 I received a PhD in Earth System Science from Stanford University.
 
-At Aerospace, I have worked in the Mission Payloads Division and the Physical Sciences Laboratories, using computational modeling and machine learning to develop next-generation technologies for satellites. At Stanford, I worked in the Remote Sensing Ecohydrology Lab, where I combined satellite remote sensing, modeling, and field measurements to characterize how plants interact with the water cycle.
+At Aerospace, I use computational modeling and machine learning to investigate next-generation sensors and other electronics for satellites. At Stanford, I worked in the Remote Sensing Ecohydrology Lab, where I combined satellite remote sensing, modeling, and field measurements to characterize how plants interact with the water cycle.
 
 
 Outside of science, I play the cello in various music groups, and I participate in Quiz Bowl, an academic knowledge competition.
