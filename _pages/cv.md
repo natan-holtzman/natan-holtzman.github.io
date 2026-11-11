@@ -16,8 +16,9 @@ Education
 
 Experience
 ======
-* 2024-present: Senior Member of Technical Staff at The Aerospace Corporation (El Segundo, CA)
-  * Physical Sciences Laboratories - Microelectronics Technology Department
+* 2024-present: The Aerospace Corporation (El Segundo, CA)
+  * 2026-present: Engineering Specialist in the Mission Payloads Division - Sensing and Processing Subdivision
+  * 2024-2026: Senior Member of Technical Staff in the Physical Sciences Laboratories - Microelectronics Technology Department
 * Summer 2023: Data Science Intern at The Aerospace Corporation (El Segundo, CA)
   * Developed algorithms for state estimation and uncertainty quantification in satellite position/navigation/timing
 * 2018-2024: Graduate Researcher at Stanford Remote Sensing Ecohydrology Lab (Stanford, CA)
@@ -34,9 +35,8 @@ Experience
   
 Skills
 ======
-* Python
-* Julia
-* R
+* Python (experienced)
+* C++, Julia, R (basic profieciency)
 
 Awards
 ======
